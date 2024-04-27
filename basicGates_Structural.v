@@ -1,8 +1,8 @@
-#VERILOG-ALL-MODELS
-#Basic Gates Implementation Using All Abstraction Levels
+//VERILOG-ALL-MODELS
+//Basic Gates Implementation Using All Abstraction Levels
 
 
-#gate level
+//gate level
 
 `timescale 1ns / 1ps
 
