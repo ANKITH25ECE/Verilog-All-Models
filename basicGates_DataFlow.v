@@ -1,7 +1,7 @@
-# Verilog-All-Models
-#Implementing the Code In Three Abstraction Methods
+//Verilog-All-Models
+//Implementing the Code In Three Abstraction Methods
 
-#DataFlow
+//DataFlow
 `timescale 1ns / 1ps
 
 module basicGates_DataFlow(a,b,z);
